@@ -1,0 +1,34 @@
+_repo: The-Eyes-Have-It_31516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: Nobody blends satire and science fiction like renowned luminary of the
+  genre Philip K. Dick. This short but utterly memorable tale tells the story of a
+  man who is utterly convinced that the world is being overrun by aliens. Is he correct,
+  or wildly off-base? Read "The Eyes Have It" to find out.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Eyes Have It
+url: http://www.gutenberg.org/ebooks/31516
